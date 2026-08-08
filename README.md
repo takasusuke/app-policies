@@ -67,7 +67,6 @@
 
 ## アプリ一覧
 
-- [Simple Timer](simple_timer/) — [プライバシーポリシー(ja)](simple_timer/privacy-policy/) /
-  [Privacy Policy(en)](simple_timer/privacy-policy/en/)
+- [Simple Timer](simple_timer/) — 全50言語対応済み（[一覧](simple_timer/)）
 - [Stone Knights](stone_knights/) — [プライバシーポリシー(ja)](stone_knights/privacy-policy/) /
   [Privacy Policy(en)](stone_knights/privacy-policy/en/)
