@@ -71,5 +71,6 @@
 - [Simple Memo](simple_memo/) — 全50言語対応済み（[一覧](simple_memo/)）
 - [Stone Knights](stone_knights/) — [プライバシーポリシー(ja)](stone_knights/privacy-policy/) /
   [Privacy Policy(en)](stone_knights/privacy-policy/en/)
-- [Simple Calculator](simple_calculator/) — [サポート/Support](simple_calculator/support/)
-  （プライバシーポリシーは未作成 — AdMob使用のため要対応）
+- [Simple Calculator](simple_calculator/) — [プライバシーポリシー(ja)](simple_calculator/privacy-policy/) /
+  [Privacy Policy(en)](simple_calculator/privacy-policy/en/) /
+  [サポート/Support](simple_calculator/support/)
