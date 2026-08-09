@@ -74,3 +74,6 @@
 - [Simple Calculator](simple_calculator/) — [プライバシーポリシー(ja)](simple_calculator/privacy-policy/) /
   [Privacy Policy(en)](simple_calculator/privacy-policy/en/) /
   [サポート/Support](simple_calculator/support/)
+- [Simple Todo](simple_todo/) — [プライバシーポリシー(ja)](simple_todo/privacy-policy/) /
+  [Privacy Policy(en)](simple_todo/privacy-policy/en/) /
+  [サポート/Support](simple_todo/support/)
