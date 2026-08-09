@@ -1,5 +1,7 @@
 # Simple Memo
 
+- [サポート / Support](support/)
+
 プライバシーポリシー（[日本語版が正文](privacy-policy/)）。以下はApp Store Connect対応の全50言語です。
 
 - [日本語（正文）](privacy-policy/)

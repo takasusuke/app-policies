@@ -69,7 +69,8 @@
 
 - [Simple Timer](simple_timer/) — プライバシーポリシーは全50言語対応済み（[一覧](simple_timer/)）/
   [サポート/Support](simple_timer/support/)
-- [Simple Memo](simple_memo/) — 全50言語対応済み（[一覧](simple_memo/)）
+- [Simple Memo](simple_memo/) — 全50言語対応済み（[一覧](simple_memo/)）/
+  [サポート/Support](simple_memo/support/)
 - [Stone Knights](stone_knights/) — [プライバシーポリシー(ja)](stone_knights/privacy-policy/) /
   [Privacy Policy(en)](stone_knights/privacy-policy/en/)
 - [Simple Calculator](simple_calculator/) — [プライバシーポリシー(ja)](simple_calculator/privacy-policy/) /
