@@ -1,6 +1,6 @@
 # Privacy Policy — Simple Timer
 
-Last updated: August 3, 2026
+Last updated: August 9, 2026
 
 **The Japanese version of this policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the
@@ -38,9 +38,14 @@ following on Google's behalf, for ad delivery and fraud prevention:
 This information is processed under Google's own privacy policy. The
 App's developer does not separately obtain or store this information.
 
-**Regarding tracking on iOS**: The App does not request App Tracking
-Transparency permission. Accordingly, IDFA is not used to track you across
-other companies' apps or websites.
+**Regarding tracking on iOS**: The App requests App Tracking Transparency
+(ATT) permission on iOS. Before ads are initialized, you may see Google's
+User Messaging Platform (UMP) consent form followed by the ATT system
+dialog. Only if you choose "Allow" may IDFA be used to track you across
+other companies' apps or websites. If you choose "Ask App Not to Track",
+IDFA is not used for tracking purposes (regardless of your choice, other
+information described above may still be processed by AdMob for ad
+delivery and fraud prevention).
 
 ## 3. What the App Does Not Use
 
