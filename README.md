@@ -14,9 +14,14 @@
     index.md             # 日本語（正文）
     en/
       index.md            # 英語等、対応言語ごとのサブディレクトリ
+  support/               # サポートページ。**審査で必須**（忘れやすい）
+    index.md
   terms-of-service/      # 必要になったら追加（同様に言語ごとのサブディレクトリ）
     index.md
 ```
+
+**`privacy-policy/`と`support/`は両方とも審査で必須。** プライバシーポリシーだけ作って
+サポートページを忘れると、提出の段で止まる（→ `~/AIFiles/docs/privacy-policy.md`）。
 
 新しいアプリの文書を追加する場合は、上記の構成に合わせて`<slug>/`配下にディレクトリを作る。
 本文はアプリごとの実際のデータ収集内容・機能と一致させ、使い回さない
@@ -72,7 +77,11 @@
 - [Simple Memo](simple_memo/) — 全50言語対応済み（[一覧](simple_memo/)）/
   [サポート/Support](simple_memo/support/)
 - [Stone Knights](stone_knights/) — [プライバシーポリシー(ja)](stone_knights/privacy-policy/) /
-  [Privacy Policy(en)](stone_knights/privacy-policy/en/)
+  [Privacy Policy(en)](stone_knights/privacy-policy/en/) /
+  [サポート/Support](stone_knights/support/)
+- [Countdown Day](simple_countdown/) — [プライバシーポリシー(ja)](simple_countdown/privacy-policy/) /
+  [Privacy Policy(en)](simple_countdown/privacy-policy/en/) /
+  [サポート/Support](simple_countdown/support/)
 - [Simple Calculator](simple_calculator/) — [プライバシーポリシー(ja)](simple_calculator/privacy-policy/) /
   [Privacy Policy(en)](simple_calculator/privacy-policy/en/) /
   [サポート/Support](simple_calculator/support/)
