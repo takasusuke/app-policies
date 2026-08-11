@@ -1,6 +1,6 @@
 # Privacy Policy — Stone Knights
 
-Last updated: August 7, 2026 / Version: 1
+Last updated: August 11, 2026 / Version: 2
 
 **The Japanese version of this policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the
@@ -50,6 +50,20 @@ Unity Technologies.
   be restricted if a threshold is exceeded (see the Terms of Service for
   details).
 
+### Crash and error information
+
+**The App does not include any crash-reporting mechanism.** Unity Cloud Diagnostics
+(crash reporting), Unity Analytics, and Firebase Crashlytics are all disabled. If an
+unexpected error occurs, the details are shown on the device's screen only and are
+never transmitted off the device.
+
+However, if you have enabled both "Share iPhone Analytics" and "Share with App
+Developers" under iOS Settings > Privacy & Security > Analytics & Improvements, Apple
+may collect crash and usage information and make it available to us in anonymised,
+aggregated form through App Store Connect. This is provided by Apple's own mechanism
+and is not collected directly by us. You can turn it off at any time from that same
+settings screen.
+
 This information is processed by Unity Technologies. Please also review
 [Unity Gaming Services' privacy policy](https://unity.com/legal/game-player-and-app-user-privacy-policy).
 
@@ -58,7 +72,8 @@ This information is processed by Unity Technologies. Please also review
 - Advertising SDKs (e.g. AdMob) — the current version does not include a
   real ad SDK, only a development placeholder screen (this policy will be
   updated once one is implemented)
-- Usage analytics such as Firebase Analytics / Crashlytics — not included
+- Usage analytics and crash collection such as Firebase Analytics / Crashlytics —
+  not included (see "Crash and error information" above)
 - In-app purchases — not included
 
 ## 4. Purpose of Use

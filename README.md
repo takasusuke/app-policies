@@ -78,6 +78,8 @@
   [サポート/Support](simple_memo/support/)
 - [Stone Knights](stone_knights/) — [プライバシーポリシー(ja)](stone_knights/privacy-policy/) /
   [Privacy Policy(en)](stone_knights/privacy-policy/en/) /
+  [利用規約(ja)](stone_knights/terms-of-service/) /
+  [Terms(en)](stone_knights/terms-of-service/en/) /
   [サポート/Support](stone_knights/support/)
 - [Countdown Day](simple_countdown/) — [プライバシーポリシー(ja)](simple_countdown/privacy-policy/) /
   [Privacy Policy(en)](simple_countdown/privacy-policy/en/) /
