@@ -1,6 +1,6 @@
 # プライバシーポリシー — Stone Knights
 
-最終更新日: 2026年8月11日 / バージョン: 2
+最終更新日: 2026年8月13日 / バージョン: 3
 
 本ポリシーは複数言語で提供される場合がありますが、**日本語版が正文（優先される版）**です。
 翻訳版と日本語版の間に齟齬がある場合は、日本語版の内容が優先されます。
@@ -57,10 +57,29 @@ Unity Cloud Diagnostics（クラッシュレポート）・Unity Analytics・Fir
 [Unity Gaming Servicesのプライバシーポリシー](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 もあわせてご確認ください。
 
+### 広告のために収集する情報（Google AdMob）
+
+本アプリには、視聴するとコインを獲得できるリワード広告（動画広告）があります。
+広告は自動的に表示されることはなく、利用者が広告アイコン（宝箱の絵）をタップして
+視聴を選んだ場合にのみ表示されます。表示にはGoogle社が提供するGoogle Mobile Ads SDK
+（AdMob）を利用しています。
+
+広告SDKを初期化する前に、GoogleのUser Messaging Platform（UMP）による同意取得
+（EU圏等、法令上必要な地域向け）と、iOSでは「Appによるトラッキングの要求」
+（App Tracking Transparency）の許可確認を行います。
+
+- 許可した場合、広告ID等の識別子が広告の配信・効果測定のためにGoogleへ送信されることが
+  あります。
+- 許可しなかった場合、これらの識別子に基づく処理は行われず、広告は非パーソナライズの形で
+  配信されます。許可の有無にかかわらず、広告を視聴して報酬を受け取ることは可能です。
+
+収集される情報の詳細は、[Googleのプライバシーポリシー](https://policies.google.com/privacy)
+および
+[Google Mobile AdsのApp Store向けデータ開示](https://developers.google.com/admob/unity/privacy/data-disclosure)
+を参照してください。
+
 ## 3. 本アプリが利用していないもの
 
-- 広告SDK（AdMob等） — 現在のバージョンでは実際の広告SDKを組み込んでおらず、開発用の
-  仮の画面のみです（実装され次第、本ポリシーを更新します）
 - Firebase Analytics / Crashlytics等の利用状況分析・クラッシュ収集 — 組み込んでいません
   （上記「クラッシュ・不具合の情報」を参照）
 - アプリ内課金 — 組み込んでいません
@@ -70,11 +89,13 @@ Unity Cloud Diagnostics（クラッシュレポート）・Unity Analytics・Fir
 - 端末内のデータは、アプリの動作（進捗の保存・復元）のためだけに使用します
 - UGSへ送る情報は、オンライン対戦の接続の成立と、不正な放置行為の検出・防止のためだけに
   使用します
+- 広告に関する情報は、リワード広告の配信と、その効果測定のためだけに使用します
 
 ## 5. 第三者への提供
 
-第2項に記載の情報は、Unity Technologies社（UGS）によって同社のプライバシーポリシーに
-基づき処理されます。上記以外の第三者へ情報を提供することはありません。
+第2項に記載の情報は、Unity Technologies社（UGS）およびGoogle社（Google Mobile Ads）
+によって、それぞれの会社のプライバシーポリシーに基づき処理されます。上記以外の第三者へ
+情報を提供することはありません。
 
 ## 6. お子様のプライバシー
 

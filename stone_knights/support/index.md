@@ -66,8 +66,10 @@ A. 「設定」からBGMと効果音をそれぞれ切り替えられます。
 
 **Q. 広告やアプリ内課金はありますか**
 
-A. 現在のバージョンには、広告もアプリ内課金もありません。ゲーム内のコインとかけらは、
-遊ぶことでのみ手に入ります。
+A. アプリ内課金はありません。広告は、視聴すると任意でコインを獲得できるリワード広告
+（動画広告）が1種類だけあります。自動的に表示されることはなく、広告アイコン（宝箱の絵）を
+タップして視聴を選んだ場合にのみ表示されます（1日に視聴できる回数には上限があります）。
+詳しくは[プライバシーポリシー](../privacy-policy/)をご覧ください。
 
 **Q. 利用している書体やソフトウェアの著作権表示はどこで見られますか**
 
@@ -145,7 +147,10 @@ A. BGM and sound effects can be toggled independently from the Settings screen.
 
 **Q. Are there ads or in-app purchases?**
 
-A. The current version has neither. In-game coins and shards are earned only by playing.
+A. There are no in-app purchases. There is one rewarded video ad that lets you optionally
+earn coins by watching it. It is never shown automatically — only when you tap the ad icon
+(a treasure-chest icon) and choose to watch (there is a daily limit on how many times you
+can watch it). See the [Privacy Policy](../privacy-policy/en/) for details.
 
 **Q. Where can I see the copyright notices for the fonts and software used?**
 

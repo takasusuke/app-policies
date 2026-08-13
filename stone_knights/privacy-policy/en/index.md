@@ -1,6 +1,6 @@
 # Privacy Policy — Stone Knights
 
-Last updated: August 11, 2026 / Version: 2
+Last updated: August 13, 2026 / Version: 3
 
 **The Japanese version of this policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the
@@ -67,11 +67,29 @@ settings screen.
 This information is processed by Unity Technologies. Please also review
 [Unity Gaming Services' privacy policy](https://unity.com/legal/game-player-and-app-user-privacy-policy).
 
+### Information collected for advertising (Google AdMob)
+
+The App includes a rewarded video ad that lets you earn coins by watching
+it. Ads are never shown automatically — they are shown only when you tap
+the ad icon (a treasure-chest icon) and choose to watch. Ads are served
+using the Google Mobile Ads SDK (AdMob), provided by Google.
+
+Before the ad SDK is initialized, the App requests consent through
+Google's User Messaging Platform (UMP) where required by law (e.g. in the
+EEA), and on iOS it asks for permission through App Tracking Transparency.
+
+- If you grant permission, identifiers such as an advertising ID may be
+  sent to Google for ad delivery and measurement.
+- If you do not grant permission, no processing based on those
+  identifiers takes place, and ads are served in a non-personalized form
+  instead. Either way, you can watch an ad and receive the reward.
+
+For details on the information collected, please see
+[Google's Privacy Policy](https://policies.google.com/privacy) and
+[Google Mobile Ads' App Store data disclosure](https://developers.google.com/admob/unity/privacy/data-disclosure).
+
 ## 3. What the App Does Not Use
 
-- Advertising SDKs (e.g. AdMob) — the current version does not include a
-  real ad SDK, only a development placeholder screen (this policy will be
-  updated once one is implemented)
 - Usage analytics and crash collection such as Firebase Analytics / Crashlytics —
   not included (see "Crash and error information" above)
 - In-app purchases — not included
@@ -82,12 +100,14 @@ This information is processed by Unity Technologies. Please also review
   restoring progress)
 - Information sent to UGS is used only to establish online match
   connections and to detect and prevent stalling abuse
+- Information related to advertising is used only to serve the rewarded
+  ad and measure its effectiveness
 
 ## 5. Disclosure to Third Parties
 
 The information described in Section 2 is processed by Unity Technologies
-(UGS) under its own privacy policy. No information is disclosed to any
-third party other than the above.
+(UGS) and Google (Google Mobile Ads), each under its own privacy policy.
+No information is disclosed to any third party other than the above.
 
 ## 6. Children's Privacy
 
