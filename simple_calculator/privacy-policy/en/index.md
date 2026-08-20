@@ -1,6 +1,6 @@
 # Privacy Policy — Simple Calculator
 
-Last updated: August 9, 2026
+Last updated: August 21, 2026
 
 This policy may be provided in multiple languages. **The Japanese version is the
 authoritative version.** If there is any discrepancy between a translation and the
@@ -9,72 +9,73 @@ Japanese version, the Japanese version controls.
 ## 1. Introduction
 
 Simple Calculator (the "App") is a calculator app supporting the four basic operations
-and parentheses. This policy explains what information is collected when you use the
+and parentheses, along with unit conversion (length, weight, volume, area, and
+temperature) and calculations using units you define yourself (e.g. "1 gold coin = 17
+silver coins"). This policy explains what information is collected when you use the
 App and how it is handled.
 
 ## 2. Information the App Collects
 
 ### Information stored only on your device
 
-Your display language and theme (light/dark) settings are stored only on your device.
-They are never sent externally and are deleted when you uninstall the App. The
-calculations you perform also exist only on your device and are never sent or stored
-externally.
+Your display language and theme (light/dark) settings, and any custom units you define,
+are stored only on your device. They are never sent externally and are deleted when you
+uninstall the App. The calculations themselves also exist only on your device and are
+never sent externally or stored elsewhere.
 
 The App does not collect any personally identifiable information such as your name,
 email address, phone number, or address. No account registration is required.
 
-### Information collected by a third party for ad delivery (Google AdMob)
+### Information collected by third parties for advertising (Google AdMob)
 
 The App uses Google AdMob to display ads. Google may collect and process the following
 for ad delivery, personalization, and fraud prevention:
 
-- Advertising identifiers (iOS IDFA, Android advertising ID)
-- Information about ad views and taps
+- Advertising identifiers (IDFA on iOS, Advertising ID on Android)
+- Information about ad impressions and taps
 - Approximate location inferred from IP address
 - Technical information such as device type and OS version
 
 This information is processed under Google's privacy policy. The App's developer does
-not separately collect or retain this information.
+not separately collect or store this information.
 
-**Tracking on iOS**: The App may ask for App Tracking Transparency permission, for
-example on first launch. If granted, IDFA is used to deliver personalized ads. The
-App's calculator functionality is unaffected if you decline.
+**About tracking on iOS**: The App may request App Tracking Transparency permission on
+first launch or similar. If granted, IDFA is used to deliver personalized ads. The App's
+calculator functionality remains fully usable even if you decline.
 
 ### Usage analytics and crash reporting (Firebase Analytics / Crashlytics)
 
 The App uses Google Firebase Analytics and Crashlytics, which send the following
 information to Google:
 
-- App usage information (screens viewed, feature usage frequency, etc.)
-- Diagnostic information when the App crashes or encounters an error (where it
-  occurred, device type, OS version, etc.)
+- App usage information (screen views, feature usage frequency, etc.)
+- Diagnostic information when the App crashes or encounters an error (where it occurred,
+  device type, OS version, etc.)
 
 This information is collected without being linked to personally identifiable
-information such as your name or email address, and is used only to fix issues and
+information such as your name or email address, and is used only to fix bugs and
 improve the App.
 
 ## 3. What the App Does Not Use
 
-- In-app purchases — not included. The App has no paid features or subscriptions.
+- In-app purchases — not implemented. The App has no paid features or subscriptions.
 
 ## 4. Purpose of Use
 
-- Information stored on your device is used only for the App's operation (saving and
-  restoring your settings).
-- Information sent to third parties (advertising identifiers, usage data, crash
-  diagnostics) is used only for ad delivery, fraud prevention, and improving the
-  App's quality.
+- Data stored on your device is used only for the App's operation (saving and restoring
+  settings)
+- Information sent to third parties (advertising identifiers, usage information, crash
+  diagnostics) is used only for ad delivery, fraud prevention, and improving App quality
 
 ## 5. Disclosure to Third Parties
 
-The information described above is processed by Google in accordance with its own
-privacy policies.
+The information described above is processed by Google in accordance with each
+service's privacy policy.
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
-- [Google Ads Policy](https://policies.google.com/technologies/ads)
+- [Google Advertising Policies](https://policies.google.com/technologies/ads)
 
-Information is not disclosed to any third party other than as described above.
+We do not disclose information to any third party other than those listed above.
 
 ## 6. Children's Privacy
 
@@ -89,11 +90,11 @@ from children under 13.
 
 ## 8. Changes to This Policy
 
-If this policy is changed, this page will be updated and the "Last updated" date
-revised. Significant changes will be announced within the App.
+If this policy is changed, this page will be updated and the "Last updated" date will
+be revised. Significant changes will be announced within the App.
 
 ## 9. Contact
 
-For questions about this policy, please contact:
+For questions about this policy, please contact us at:
 
-gendaijin44435@gmail.com
+Contact: gendaijin44435@gmail.com
