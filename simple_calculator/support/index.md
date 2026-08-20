@@ -1,6 +1,6 @@
 # サポート — Simple Calculator
 
-最終更新日: 2026年8月9日
+最終更新日: 2026年8月21日
 
 ## お問い合わせ
 
@@ -19,6 +19,26 @@ A. はい。( ) ボタンで四則演算に括弧を組み合わせた計算が�
 
 A. 入力中の式は、結果の表示の上に自動的に表示されます。式が長い場合は折り返して表示されます。
 
+**Q. 単位を変換するにはどうすればいいですか？**
+
+A. カテゴリタブ（長さ・重さ・体積・面積・温度）を選び、単位のボタンをタップすると、入力中の
+数値や計算結果がその単位に変換されて表示されます。
+
+**Q. 異なる単位同士を足し算・引き算するとどうなりますか？**
+
+A. 「2 cm + 3 kg」のように単位が異なる場合は、無理に変換せず、単位ごとに結果を保持したまま
+表示します（例: 「2 cm + 3 kg」のまま）。
+
+**Q. 単位同士を掛け算・割り算するとどうなりますか？**
+
+A. 「3 m × 4 m = 12 m²」のように同じ種類の単位なら正しく次元が変わります。「10 mL ÷ 2 kg」
+のように異なる種類の単位同士の場合は、「5 mL/kg」のような合成した単位で表示します。
+
+**Q. 自分だけの単位（自作単位）を追加できますか？**
+
+A. できます。電卓画面のカテゴリタブ右端の「+」から、セット名（例: コイン）と単位
+（例: 1金コイン = 17銀コイン）を登録すると、通常の単位と同じように電卓で使えるようになります。
+
 **Q. 表示言語を変更したい**
 
 A. 設定 > 言語 から、端末のシステム言語とは独立して表示言語を切り替えられます。「システム設定に
@@ -36,7 +56,7 @@ A. 現在、広告を非表示にするオプションはありません。
 
 # Support — Simple Calculator
 
-Last updated: August 9, 2026
+Last updated: August 21, 2026
 
 ## Contact
 
@@ -55,6 +75,28 @@ A. Yes. Use the ( ) buttons to combine parentheses with the four basic operation
 
 A. The expression you're building is shown above the result as you type. Long expressions wrap
 to a new line.
+
+**Q. How do I convert between units?**
+
+A. Choose a category tab (Length, Weight, Volume, Area, Temperature) and tap a unit button --
+the number you're typing or the calculation result is shown converted into that unit.
+
+**Q. What happens if I add or subtract different units?**
+
+A. If the units don't match (e.g. "2 cm + 3 kg"), the App keeps the result as separate terms
+per unit instead of forcing an incorrect conversion.
+
+**Q. What happens if I multiply or divide different units?**
+
+A. Multiplying or dividing units of the same kind changes the dimension correctly, like
+"3 m × 4 m = 12 m²". Multiplying or dividing across different kinds of units (like
+"10 mL ÷ 2 kg") shows a synthesized unit, like "5 mL/kg".
+
+**Q. Can I add my own custom units?**
+
+A. Yes. Tap the "+" at the right end of the category tabs to create a set (e.g. "Coins") and
+define units relative to each other (e.g. "1 gold coin = 17 silver coins") -- they then work
+just like any built-in unit.
 
 **Q. How do I change the display language?**
 
