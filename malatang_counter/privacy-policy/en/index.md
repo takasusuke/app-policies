@@ -1,6 +1,6 @@
 # Privacy Policy — Malatang Counter
 
-Last updated: August 22, 2026
+Last updated: August 26, 2026
 
 **The Japanese version of this Policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the Japanese
@@ -41,6 +41,24 @@ may be used for tracking across other apps and websites. Granting permission is
 optional; if you decline, the App still functions normally (you will simply see
 non-personalized ads).
 
+### Information we collect to improve app stability (Firebase)
+
+The App uses Google's Firebase services (Firebase Analytics and Firebase Crashlytics).
+
+- **Firebase Crashlytics**: when the App crashes, we collect a crash report (where the
+  error occurred and technical information such as device type and OS version) to
+  investigate the cause.
+- **Firebase Analytics**: automatically collects information about app launches and
+  usage (number of launches, session duration, device type/OS version, and an
+  approximate region estimated from your IP address). The App's developer has not
+  implemented custom event logging for individual in-game actions (e.g. which
+  ingredient you picked), but Firebase Analytics' standard functionality still
+  collects the information above automatically.
+
+This information is not linked to personally identifying information such as your name
+or email address, and is used only to fix bugs, improve app stability, and understand
+usage — not for ad delivery. This data is processed under Google's own privacy policy.
+
 ## 3. What the App does not use
 
 The following is included in the App's build but is **disabled in the current version
@@ -52,9 +70,14 @@ If we enable this in the future, we will update this Policy first.
 
 ## 4. Purpose of use
 
-The information collected is used by Google for ad delivery (including personalization
-where permitted) and fraud prevention. The developer does not use this information for
-usage analytics or any purpose other than advertising.
+The information collected is used only for the following purposes:
+
+- Ad delivery (including personalization where permitted) and fraud prevention
+  (Google AdMob)
+- Fixing bugs, improving app stability, and understanding usage (Firebase
+  Crashlytics / Firebase Analytics)
+
+The developer does not use this information for any other purpose.
 
 ## 5. Disclosure to third parties
 
