@@ -1,6 +1,6 @@
 # Privacy Policy — Malatang Counter
 
-Last updated: August 26, 2026
+Last updated: September 23, 2026
 
 **The Japanese version of this Policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the Japanese
@@ -50,10 +50,12 @@ The App uses Google's Firebase services (Firebase Analytics and Firebase Crashly
   investigate the cause.
 - **Firebase Analytics**: automatically collects information about app launches and
   usage (number of launches, session duration, device type/OS version, and an
-  approximate region estimated from your IP address). The App's developer has not
-  implemented custom event logging for individual in-game actions (e.g. which
-  ingredient you picked), but Firebase Analytics' standard functionality still
-  collects the information above automatically.
+  approximate region estimated from your IP address). In addition, to help balance
+  game difficulty, the App sends events describing which ingredients, noodles, soup,
+  and seasoning you served during play, and the result of each shift (sales, whether
+  you met the target, the change in reputation, and the number of customers served).
+  None of this is linked to personally identifying information such as your name or
+  email address.
 
 This information is not linked to personally identifying information such as your name
 or email address, and is used only to fix bugs, improve app stability, and understand
