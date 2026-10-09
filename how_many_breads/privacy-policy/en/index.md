@@ -1,6 +1,6 @@
 # Privacy Policy — Bread Counter
 
-Last updated: August 22, 2026
+Last updated: October 9, 2026
 
 **The Japanese version of this Policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the Japanese
@@ -9,18 +9,23 @@ version, the Japanese version controls.
 
 ## 1. Introduction
 
-Bread Counter (the "App") is a counter app for tracking how many pieces of bread you've eaten. This Policy explains what information is collected
+Bread Counter (the "App") lets you record the bread you eat and look back on it. This Policy explains what information is collected
 when you use the App and how it is handled.
 
 ## 2. Information the App collects
 
 ### Information stored only on your device
 
-your recorded counts, along with your settings, are stored only on your device. Nothing is sent
-externally, and this data is erased when you delete the App.
+The following is stored only on your device. Nothing is sent externally, and this data is erased when you delete the App.
+
+- What you recorded (bread type, toast level, toppings, soup, and the date and time of each record)
+- Free-text comments you add to a record (for example, where you ate — text you type yourself)
+- Routines you save (combinations you often eat)
+- Settings (language, default bread, a local copy of your Pro status, and so on)
 
 The App does not collect any personally identifying information such as your name, email
-address, phone number, or home address. No account registration is required.
+address, phone number, or home address. No account registration is required. Please do not
+enter personal information, or information about other people, in the comment field.
 
 ### Information collected by a third party for ad delivery (Google AdMob)
 
@@ -33,7 +38,8 @@ may collect and process the following:
 - Technical information such as device type and OS version
 
 This information is processed under Google's own privacy policy. The App's developer
-does not separately obtain or retain this information.
+does not separately obtain or retain this information. Ads are shown in the free version
+(the paid Pro version shows no ads).
 
 **Tracking on iOS**: to deliver personalized ads, the App may request App Tracking
 Transparency permission, for example on first launch. If you grant permission, your IDFA
@@ -41,25 +47,47 @@ may be used for tracking across other apps and websites. Granting permission is
 optional; if you decline, the App still functions normally (you will simply see
 non-personalized ads).
 
-## 3. What the App does not use
+### Information processed by third parties to manage purchases (RevenueCat and Apple)
 
-The following is included in the App's build but is **disabled in the current version
-and collects no information**:
+The App has a paid Pro version unlocked with a one-time payment. To handle purchases,
+restores, and checking your purchase status, the App uses the purchase-management service
+RevenueCat (RevenueCat, Inc.) and Apple's App Store. When you buy or restore, RevenueCat may process:
 
-- In-app purchases (RevenueCat) — not enabled
+- An anonymous user ID assigned automatically within the App
+- The product purchased, the purchase date and time, and the purchase status (active, refunded, and so on)
+- Technical information such as your IP address, device type, OS version, and App version
 
-If we enable this in the future, we will update this Policy first.
+Payment information (such as card numbers) is processed by Apple. The App's developer does not obtain it.
 
-## 4. Purpose of use
+### Information collected by a third party for crash analysis and usage insight (Google Firebase)
 
-The information collected is used by Google for ad delivery (including personalization
-where permitted) and fraud prevention. The developer does not use this information for
-usage analytics or any purpose other than advertising.
+To find the causes of problems and improve quality, the App uses Google Firebase
+(Crashlytics and Analytics). Google may collect and process the following:
 
-## 5. Disclosure to third parties
+- A record of what happened when the App crashes (the screen, device type, OS version, App version, and so on)
+- Rough usage information, such as App launches and screens viewed
+- An identifier assigned automatically to each installation of the App (it does not identify you personally)
 
-The information described above is processed by Google under its own service privacy
-policies. We do not disclose information to any other third party.
+This information is processed under Google's own privacy policy.
+
+## 3. Purpose of use
+
+- Ad delivery (including personalization where permitted) and fraud prevention (Google)
+- Purchases, restores, and checking purchase status (RevenueCat and Apple)
+- Crash analysis and quality improvement (Google Firebase)
+
+The developer does not use this information for any other purpose.
+
+## 4. Disclosure to third parties
+
+The information described above is processed by Google, RevenueCat, and Apple under their
+own privacy policies. We do not disclose information to any other third party.
+
+## 5. Deleting and managing information
+
+- Records, comments, and settings stored on your device are erased when you delete the App.
+- You can change the App's tracking permission at any time in iOS Settings.
+- Your purchase is tied to your Apple ID. On another device, use "Restore purchases" to restore it.
 
 ## 6. Children's privacy
 
