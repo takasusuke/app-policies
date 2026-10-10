@@ -1,6 +1,6 @@
 # Privacy Policy — Malatang Counter
 
-Last updated: September 23, 2026
+Last updated: October 10, 2026
 
 **The Japanese version of this Policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the Japanese
@@ -98,5 +98,7 @@ material change, we will update the "Last updated" date on this page.
 ## 8. Contact
 
 For questions about this Policy, please contact:
+
+If you would like your data deleted, please contact us at the address below. Data stored on your device is erased when you delete the App, and we will delete the information we hold that can be linked to your device (please tell us the App version and device model).
 
 Contact: gendaijin44435@gmail.com
