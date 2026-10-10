@@ -1,6 +1,6 @@
 # Privacy Policy — Bread Counter
 
-Last updated: October 9, 2026
+Last updated: October 10, 2026
 
 **The Japanese version of this Policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the Japanese
@@ -22,6 +22,7 @@ The following is stored only on your device. Nothing is sent externally, and thi
 - Free-text comments you add to a record (for example, where you ate — text you type yourself)
 - Routines you save (combinations you often eat)
 - Settings (language, default bread, a local copy of your Pro status, and so on)
+- When and in which time zone you recorded, the day you first opened the App, the day Pro was first activated, and achievements you have earned (kept so that future features can show you a look back)
 
 The App does not collect any personally identifying information such as your name, email
 address, phone number, or home address. No account registration is required. Please do not
@@ -66,6 +67,8 @@ To find the causes of problems and improve quality, the App uses Google Firebase
 
 - A record of what happened when the App crashes (the screen, device type, OS version, App version, and so on)
 - Rough usage information, such as App launches and screens viewed
+- Feature usage (how many times and in what way you recorded bread, saved or deleted a routine, opened the report, opened the X share screen, or took a purchase step). This may include the name of a bread type and numbers such as how many toppings were used. It never includes text you typed yourself, such as comments
+- Your choice in the ads consent and tracking permission prompts
 - An identifier assigned automatically to each installation of the App (it does not identify you personally)
 
 This information is processed under Google's own privacy policy.
