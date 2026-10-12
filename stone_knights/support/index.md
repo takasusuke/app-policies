@@ -1,6 +1,6 @@
 # サポート — Stone Knights
 
-最終更新日: 2026年8月11日
+最終更新日: 2026年10月12日
 
 ## お問い合わせ
 
@@ -12,7 +12,7 @@
 不具合の報告では、次の3点を添えていただけると原因を特定しやすくなります。
 
 - お使いの機種とiOSのバージョン
-- どの画面で起きたか（対戦・詰め石・デッキ編成など）
+- どの画面で起きたか（ストーリー・対戦・詰め石・デッキ編成など）
 - 直前に何をしたか
 
 ## よくある質問
@@ -22,27 +22,16 @@
 A. モード選択の「遊び方」から、実際の盤を触りながら一手ずつ操作を覚えられます。
 石それぞれの効果は「パズル」の第1章で1種類ずつ学べます。石の一覧と説明は「図鑑」にあります。
 
-**Q. オンライン対戦で相手とつながりません**
+**Q. オンライン対戦はできますか**
 
-A. 対戦する二人が同じ合言葉を入力する必要があります。合言葉が一致しているか、二人とも
-通信できる環境にいるかをご確認ください。片方が古いバージョンのままだと接続できないことが
-あります。
+A. オンライン対戦は2026年10月に廃止しました。現在は、CPUと戦う「ストーリー」「CPU対戦」と、
+「詰め石」「遊び方」をお楽しみいただけます。将来、再開する場合はお知らせします。
 
-**Q. 「更新してください」と表示されて、オンライン対戦に入れません**
+**Q. 統計の送信を止めたいです**
 
-A. オンライン対戦は、双方が同じ形式でやり取りできることを前提にしています。App Storeから
-最新版へ更新してください。更新済みでも表示が続く場合は、上記の連絡先までご連絡ください。
-
-**Q. オンライン対戦に持ち時間はありますか**
-
-A. あります。一人あたりの持ち時間を使い切ると、以降は1手ごとの短い制限時間に切り替わります。
-長時間画面を操作しないままだと、投了として扱われます。
-
-**Q. 対戦相手が意図的に放置してきます**
-
-A. 放置により対局が終わった記録を保存しており、繰り返された場合はオンライン対戦の利用を
-制限することがあります。制限の対象はオンライン対戦だけで、**端末内のゲームの進行状況が
-消えることはありません。** 詳しくは[利用規約](../terms-of-service/)をご確認ください。
+A. 「設定」の「統計送信」をOFFにすると、遊んだモードや対局の結果などの送信を止められます。
+クラッシュの情報の送信は、この設定とは別に行われます。詳しくは
+[プライバシーポリシー](../privacy-policy/)をご覧ください。
 
 **Q. 機種変更をします。データを引き継げますか**
 
@@ -79,7 +68,7 @@ A. 「設定 > ライセンス表記」でご確認いただけます。
 
 # Support — Stone Knights
 
-Last updated: August 11, 2026
+Last updated: October 12, 2026
 
 ## Contact
 
@@ -91,7 +80,7 @@ Contact: gendaijin44435@gmail.com
 When reporting a problem, the following three details make it much easier to track down:
 
 - Your device model and iOS version
-- Which screen it happened on (a match, a puzzle, deck building, and so on)
+- Which screen it happened on (the story, a match, a puzzle, deck building, and so on)
 - What you did just before it happened
 
 ## Frequently Asked Questions
@@ -102,27 +91,17 @@ A. Choose "遊び方" (How to Play) from the mode select screen to learn the con
 time on a real board. Chapter 1 of the puzzle mode teaches the effect of each stone individually,
 and the encyclopedia lists every stone with a description.
 
-**Q. I can't connect to an opponent in online play**
+**Q. Can I play online?**
 
-A. Both players must enter the same passphrase. Check that the passphrase matches and that both
-players have a working network connection. Connection may fail if one player is still on an
-older version.
+A. Online play was discontinued in October 2026. You can currently enjoy the Story and CPU
+matches against the computer, plus the puzzles and the tutorial. We will announce it if
+online play returns.
 
-**Q. It says I need to update, and won't let me play online**
+**Q. I want to stop sending statistics**
 
-A. Online play assumes both sides exchange moves in the same format. Please update to the latest
-version from the App Store. If the message continues after updating, please contact us at the
-address above.
-
-**Q. Is there a time limit in online play?**
-
-A. Yes. Once your main time is used up, a shorter per-move limit applies. If the screen is left
-untouched for an extended period, the game is treated as a resignation.
-
-**Q. My opponent is deliberately stalling**
-
-A. We record games that end through stalling, and repeated behaviour may result in restricted
-access to online play. See the Terms of Service (in-app, under Settings) for details.
+A. Turn off "統計送信" (Send statistics) in Settings to stop sending the modes you play, match
+results, and similar usage information. Crash information is sent separately from this
+setting. See the [Privacy Policy](../privacy-policy/en/) for details.
 
 **Q. I'm changing devices. Can I transfer my data?**
 

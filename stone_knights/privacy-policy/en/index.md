@@ -1,6 +1,6 @@
 # Privacy Policy — Stone Knights
 
-Last updated: August 13, 2026 / Version: 3
+Last updated: October 12, 2026 / Version: 4
 
 **The Japanese version of this policy is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the
@@ -18,54 +18,73 @@ Stone Knights ("the App") is a board game in which players move stones
 against each other. This policy explains what information is collected
 when you use the App and how it is handled.
 
+**Main changes in version 4:** The App's online match feature has been
+discontinued, so the sections on information collected for online matches
+(anonymous authentication, relayed communication, match records) have been
+removed. We have also added that usage and crash information is collected to
+improve the game and to find bugs (Section 2).
+
 ## 2. Information the App Collects
 
 ### Information stored only on your device
 
 The stones, coins, shards, and achievements you own, your deck
-configuration, and your settings (BGM/SE on or off) are stored only on
-your device (PlayerPrefs). This information is never transmitted
-externally and is deleted when you uninstall the App.
+configuration, story progress, and your settings (BGM/SE on or off,
+statistics sending on or off) are stored only on your device (PlayerPrefs).
+This information is never transmitted externally and is deleted when you
+uninstall the App.
 
 The App does not collect any personally identifying information such as
 your name, email address, phone number, or address. No account
 registration (entering an email address or password) is required.
 
-### Information collected for online matches (Unity Gaming Services)
+### Usage information (Unity Gaming Services Analytics)
 
-The online match feature uses Unity Gaming Services (UGS), provided by
-Unity Technologies.
+To make the game easier to play (for example, to learn where in the story
+players get stuck because it is too hard), the App uses Analytics from Unity
+Gaming Services (UGS), provided by Unity Technologies, to collect usage
+information such as:
 
-- **Anonymous authentication**: When you use online matches, an anonymous
-  player ID (an identifier not linked to personal information such as an
-  email address) is issued for your device.
-- **Relayed communication**: Communication with your opponent is relayed
-  through UGS Relay. Information about the moves played is exchanged
-  between the two matched devices through this relay.
-- **Match record storage (Cloud Save)**: To detect abuse through
-  intentional stalling (repeated timeouts or abandoned connections), the
-  number and timestamps of matches ended due to stalling are recorded in
-  UGS Cloud Save, linked to your anonymous player ID. The developer can
-  view this record from the Unity Dashboard, and online match access may
-  be restricted if a threshold is exceeded (see the Terms of Service for
-  details).
+- The mode you choose (story, CPU match, puzzle, tutorial, and so on)
+- When a match starts and ends, its result (win, loss, draw, resignation),
+  the number of moves, the time taken, the story chapter, and the CPU level
+- The result of puzzle attempts and the time taken
+- How often you were stopped for lack of stamina, and how often you watched
+  the stamina-recovery ad
 
-### Crash and error information
+This information is **not linked to personally identifying information**.
+Because the App does not collect your name, email address, or similar
+details, you cannot be identified from it. However, through Unity's
+mechanism, an anonymous identifier automatically issued per app and device,
+and information such as device model, OS version, app version, language, and
+approximate region, may be sent along with it.
 
-**The App does not include any crash-reporting mechanism.** Unity Cloud Diagnostics
-(crash reporting), Unity Analytics, and Firebase Crashlytics are all disabled. If an
-unexpected error occurs, the details are shown on the device's screen only and are
-never transmitted off the device.
+- **Collection starts only after you consent.** Nothing is sent before you
+  agree to this policy.
+- **You can turn it off at any time.** Turn off "統計送信" (Send statistics) in
+  Settings and nothing further is sent.
+- Records are not stored up and sent later (anything that happens while it is
+  off, or before consent, is discarded).
 
-However, if you have enabled both "Share iPhone Analytics" and "Share with App
-Developers" under iOS Settings > Privacy & Security > Analytics & Improvements, Apple
-may collect crash and usage information and make it available to us in anonymised,
-aggregated form through App Store Connect. This is provided by Apple's own mechanism
-and is not collected directly by us. You can turn it off at any time from that same
-settings screen.
+### Crash and error information (Unity Cloud Diagnostics)
+
+If the App terminates unexpectedly, it uses Unity Cloud Diagnostics to
+collect crash information (the error details, a record of where it occurred,
+and the device model, OS version, and app version) so we can find and fix
+the cause. It contains no personally identifying information. Crash
+information is sent separately from the "Send statistics" setting above.
 
 This information is processed by Unity Technologies. Please also review
 [Unity Gaming Services' privacy policy](https://unity.com/legal/game-player-and-app-user-privacy-policy).
+
+### Information collected by Apple
+
+If you have enabled both "Share iPhone Analytics" and "Share with App
+Developers" under iOS Settings > Privacy & Security > Analytics & Improvements,
+Apple may collect crash and usage information and make it available to us in
+anonymised, aggregated form through App Store Connect. This is provided by
+Apple's own mechanism and is not collected directly by us. You can turn it off
+at any time from that same settings screen.
 
 ### Information collected for advertising (Google AdMob)
 
@@ -90,16 +109,19 @@ For details on the information collected, please see
 
 ## 3. What the App Does Not Use
 
-- Usage analytics and crash collection such as Firebase Analytics / Crashlytics —
-  not included (see "Crash and error information" above)
+- Firebase Analytics / Crashlytics — not included (usage and crash information
+  is collected through Unity's services, as described above)
+- Communication, authentication, and match-record storage for online matches
+  — discontinued
 - In-app purchases — not included
 
 ## 4. Purpose of Use
 
 - On-device data is used only for the App's operation (saving and
   restoring progress)
-- Information sent to UGS is used only to establish online match
-  connections and to detect and prevent stalling abuse
+- Usage information is used only to improve the game's difficulty and
+  playability
+- Crash information is used only to investigate and fix bugs
 - Information related to advertising is used only to serve the rewarded
   ad and measure its effectiveness
 

@@ -1,11 +1,16 @@
 # Terms of Service — Stone Knights
 
-Last updated: August 11, 2026 / Version: 2
+Last updated: October 12, 2026 / Version: 3
 
 **The Japanese version of these Terms is the authoritative (governing) version.**
 If there is any conflict or discrepancy between this translation and the Japanese
 version, the Japanese version controls.
 [日本語版はこちら](../)
+
+**Main changes in version 3:** Because online play has been discontinued, the
+prohibited conduct and restriction clauses specific to online play (such as
+stalling) have been removed. Section 4 has been added on the collection of
+usage and crash information.
 
 ## 1. About these Terms
 
@@ -20,38 +25,29 @@ The App is not directed to children under 13.
 
 The following are prohibited when using the App:
 
-1. Tampering with or intercepting the App's or Unity Gaming Services' communications or data
-2. Defaming or harassing an opponent
-3. **Deliberate stalling**: in online play, running down the clock with no intention of
-   continuing the game, repeatedly abandoning the connection, or otherwise materially
-   degrading your opponent's experience
-4. Any other conduct that we determine interferes with the proper operation of the App
+1. Tampering with the App's programs or data
+2. Disrupting the usage and crash information the App collects (Section 4), for
+   example by sending false values
+3. Any other conduct that we determine interferes with the proper operation of the App
 
-## 4. Restriction of use
+## 4. Collection of usage and crash information
 
-If conduct falling under the previous section is identified (including cases that are
-clear from our records, such as repeated stalling), we may take the following measures
-without prior notice. The App requires no account registration and we have no means of
-contacting individual users, so prior notice is not possible.
-
-- Temporary or permanent restriction of the online play feature
-- Any other measure we deem necessary
-
-**We will not delete the game progress stored on your device** (stones, coins, shards,
-achievements, and so on). Any restriction applies only to the online play feature.
-
-If you believe a measure was applied in error, or you would like it lifted, please
-contact us using the address in Section 9. As this is an individually developed app we
-cannot promise an immediate response, but we will review your message and reply.
-
-For how stalling is detected and recorded, see the
-[Privacy Policy](../../privacy-policy/en/).
+To improve the game and to find bugs, the App collects usage information (the mode you
+choose, the result, number of moves, and time taken of matches, and so on) and crash
+information. What is collected, why, and how to turn it off are described in the
+[Privacy Policy](../../privacy-policy/en/). This information does not identify you. You can
+stop usage information from being sent at any time by turning off "統計送信" (Send
+statistics) in the App's Settings.
 
 ## 5. Disclaimer of warranties
 
 The App is provided "as is". We make no warranty, express or implied, as to its
 completeness, accuracy, or fitness for a particular purpose. We disclaim liability for
 damages arising from use of the App to the maximum extent permitted by law.
+
+Game progress stored on your device (stones, coins, shards, achievements, and so on) is
+lost when you delete the App or change devices and cannot be restored. The App has no
+data transfer feature.
 
 ## 6. Intellectual property
 
