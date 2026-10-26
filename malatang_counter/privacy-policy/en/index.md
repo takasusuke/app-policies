@@ -40,6 +40,8 @@ anonymous ID is not shown). Rankings for the past 6 days, the monthly (month-tot
 recent ranks can also be viewed. You can turn participation off at any time, after which nothing further is sent. Merely
 viewing the ranking also issues an anonymous ID and communicates with the server.
 
+**Friends (optional)**: Only if you have joined the ranking, a friend code (8 characters) is issued, and you can send a request to someone whose code you know (it takes effect when they accept, and you can stop at any time). For this, the friend code, your anonymous ID, display name and favorite icon are stored on the same server, together with your friend list and requests. Friends see your ranking results side by side with theirs. There is no free-text input or chat.
+
 ### Information collected by a third party for ad delivery (Google AdMob)
 
 The App uses Google AdMob to display ads. For ad delivery and fraud prevention, Google
